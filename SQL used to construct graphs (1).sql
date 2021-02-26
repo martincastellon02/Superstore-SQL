@@ -1,6 +1,5 @@
-  Practice questions from beginner to SQL
-How many countries are in the APAC sales region?
-   
+ -- Business questions with Answeres in query form
+--How many countries are in the APAC sales region?
  Answer:
  SELECT COUNT(country)
 FROM regions 
